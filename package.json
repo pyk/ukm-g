@@ -1,7 +1,7 @@
 {
   "name": "ukm-g",
   "version": "0.0.0",
-  "description": "Small description for ukm-g goes here",
+  "description": "Membantu UKM Indonesia untuk gone Google",
   "private": true,
   "directories": {
     "doc": "doc",
@@ -16,7 +16,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Bayu Aldi Yansyah <bayualdiyansyah@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
